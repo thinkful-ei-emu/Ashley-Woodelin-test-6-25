@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from './CardTest/card';
+import Card from './card';
 
 //map through array of cards 
 
