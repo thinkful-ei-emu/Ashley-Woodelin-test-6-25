@@ -5,7 +5,7 @@ import List from './list';
 
 function App(props) {
   const allCards = props.allCards;
-  console.log(allCards);
+ 
   //accepts store
   //store has lists: an array of objects, where each object has a list of card IDs to put in that list
 
